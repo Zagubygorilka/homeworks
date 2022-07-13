@@ -1,0 +1,54 @@
+.fon{
+    background: silver;
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    padding-top: 10px;
+
+
+}
+.icon{
+   display: flex;
+    gap: 20px;
+}
+.one{
+    height: 20px;
+    width: 50px;
+    background: black;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+
+.three{
+    width: 500px;
+    height: 200px;
+    background: black ;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+.wrap{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    position: absolute;
+    bottom: -25px;
+
+}
+
+
+
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+
+}
+
