@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cce5ec0-9c58-468a-9b35-979d2f01883e" name="Changes" comment="card1" />
+    <list default="true" id="8cce5ec0-9c58-468a-9b35-979d2f01883e" name="Changes" comment="asd">
+      <change afterPath="$PROJECT_DIR$/homework4/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BtrC6W9I3IqbmkozLCeF29Puy6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +69,8 @@
       <workItem from="1657736097386" duration="947000" />
       <workItem from="1657792416019" duration="4140000" />
       <workItem from="1657796734123" duration="33000" />
-      <workItem from="1657965560506" duration="12326000" />
+      <workItem from="1657965560506" duration="12547000" />
+      <workItem from="1657995108231" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="card2">
       <created>1657736344841</created>
@@ -86,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657980176233</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="asd">
+      <created>1657982037474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657982037474</updated>
+    </task>
+    <task id="LOCAL-00005" summary="asd">
+      <created>1657982082065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657982082065</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="card2" />
     <MESSAGE value="card1" />
-    <option name="LAST_COMMIT_MESSAGE" value="card1" />
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
   </component>
 </project>

@@ -1,0 +1,93 @@
+.container{
+    width: 910px;
+    height: 500px;
+    border: 1px solid black;
+
+}
+
+.boxA{
+    width: 900px;
+    height: 150px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    background: silver;
+    margin: 5px;
+}
+
+.boxB{
+    width: 600px;
+    height: 150px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    background: silver;
+    margin: 5px;
+}
+
+.boxCDE{
+    width: 600px;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.boxC{
+    width: 100px;
+    height: 150px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    background: silver;
+}
+
+.boxF{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    background: silver;
+    margin: 5px;
+}
+
+
+.boxD{
+    width: 100px;
+    height: 150px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    background: silver;
+}
+
+.boxE{
+    width: 100px;
+    height: 150px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    background: silver;
+}
+
+.bigbox{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+
+@media (max-width: 900px){
+    .boxB{
+        width: 900px;
+        height: 300px;
+    }
+.boxCDE{
+    width: 900px;
+}
+.boxF{
+    width: 900px;
+    height: 150px;
+}
+.bigbox{
+    display: block;
+    }
+.container{
+    height: 780px;
+}
+
+}
