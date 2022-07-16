@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 900px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.a{
+    height: 250px;
+    background: silver;
+    margin-bottom: 20px ;
+}
+
+.b{
+    width: 70%;
+    height: 250px;
+    background: bisque;
+}
+
+.c{
+    width: 30%;
+    height: 250px;
+    background: cornflowerblue;
+}
+
+
+
+.work{
+    display: flex;
+    gap: 20px;
+}
+
+@media (max-width: 900px ) {
+    .work{
+        flex-direction: column;
+    }
+.b {
+    width: 100%;}
+
+    .c {
+        width: 100%;
+    }
+
+}
+
+
+
+

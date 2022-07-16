@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cce5ec0-9c58-468a-9b35-979d2f01883e" name="Changes" comment="card2">
-      <change afterPath="$PROJECT_DIR$/homework3/card1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework3/card1.html" afterDir="false" />
+    <list default="true" id="8cce5ec0-9c58-468a-9b35-979d2f01883e" name="Changes" comment="card1">
+      <change afterPath="$PROJECT_DIR$/homework4/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework4/1/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework3/Homework3.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework3/Homework3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/zagub/IdeaProjects/homwor3/homework3",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zagub/IdeaProjects/homeworks&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zagub\IdeaProjects\homwor3\homework3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zagub\IdeaProjects\homeworks\homework4\1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +65,9 @@
       <option name="presentableId" value="Default" />
       <updated>1657736096005</updated>
       <workItem from="1657736097386" duration="947000" />
-      <workItem from="1657792416019" duration="3769000" />
+      <workItem from="1657792416019" duration="4140000" />
+      <workItem from="1657796734123" duration="33000" />
+      <workItem from="1657965560506" duration="11696000" />
     </task>
     <task id="LOCAL-00001" summary="card2">
       <created>1657736344841</created>
@@ -72,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657736344841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="card1">
+      <created>1657796432256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657796432256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="card2" />
-    <option name="LAST_COMMIT_MESSAGE" value="card2" />
+    <MESSAGE value="card1" />
+    <option name="LAST_COMMIT_MESSAGE" value="card1" />
   </component>
 </project>
